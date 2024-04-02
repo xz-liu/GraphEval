@@ -1,20 +1,22 @@
 cff-version: 1.2.0
 message: "If you use this software in your work, please cite it using the following metadata"
-title: "Evaluating the Factuality of Large Language Models using Large-Scale Knowledge Graphs"
-authors:
-  - family-names: Liu
-    given-names: Xiaoze
-  - family-names: Wu
-    given-names: Feijie
-  - family-names: Xu
-    given-names: Tianyang
-  - family-names: Chen
-    given-names: Zhuo
-  - family-names: Zhang
-    given-names: Yichi
-  - family-names: Wang
-    given-names: Xiaoqian
-  - family-names: Gao
-    given-names: Jing
-year: 2024
-journal: "arXiv preprint arXiv:2404.00942"
+preferred-citation:
+  type: article
+  title: "Evaluating the Factuality of Large Language Models using Large-Scale Knowledge Graphs"
+  authors:
+    - family-names: Liu
+      given-names: Xiaoze
+    - family-names: Wu
+      given-names: Feijie
+    - family-names: Xu
+      given-names: Tianyang
+    - family-names: Chen
+      given-names: Zhuo
+    - family-names: Zhang
+      given-names: Yichi
+    - family-names: Wang
+      given-names: Xiaoqian
+    - family-names: Gao
+      given-names: Jing
+  year: 2024
+  journal: "arXiv preprint arXiv:2404.00942"
