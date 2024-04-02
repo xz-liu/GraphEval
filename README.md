@@ -50,11 +50,11 @@ Please consider citing this paper if you use the ```code``` or ```data``` from o
 Thanks a lot :)
 
 ```bigquery
-@article{grapheval,
-  title={Evaluating the Factuality of Large Language Models using Large-Scale Knowledge Graphs},
-  author={Xiaoze Liu, Feijie Wu, Tianyang Xu, Zhuo Chen, Yichi Zhang, Xiaoqian Wang, Jing Gao},
-  journal={arXiv preprint},
-  year={2024}
+@journal{liu2024evaluating,
+      title={Evaluating the Factuality of Large Language Models using Large-Scale Knowledge Graphs}, 
+      author={Xiaoze Liu and Feijie Wu and Tianyang Xu and Zhuo Chen and Yichi Zhang and Xiaoqian Wang and Jing Gao},
+      year={2024},
+      journal={arXiv preprint arXiv:2404.00942}
 }
 ```
 
