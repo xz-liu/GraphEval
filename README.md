@@ -14,7 +14,7 @@
 
 ## 🔬 Dependencies
 ```bash
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 #### Details
 - Python (>= 3.7)
